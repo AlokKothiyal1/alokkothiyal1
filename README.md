@@ -6,15 +6,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Connect with me:
-
-[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-
 <br />
 
 ### Languages and Tools:
@@ -28,9 +19,18 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    </p> 
 ---
+<p align="center">
+  <i>Connect with me.</i><br/>
+  <i>
+    <a href="http://alokkothiyal1.github.io"><img src="https://img.shields.io/badge/-github.io-000000?style=for-the-badge&logo=react&logoColor=white"></a>
+    <a href="mailto:alokothiyal007@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/alok-kothiyal-025191119/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+    <a href="https://www.instagram.com/alokkothiyal/?hl=en"><img src="https://img.shields.io/badge/-Instagram-d62977?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  </i>
+</p>
 
 ![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
 
 [website]: https://alokkothiyal1.github.io/
 [twitter]: https://twitter.com/alok_kothiyal
