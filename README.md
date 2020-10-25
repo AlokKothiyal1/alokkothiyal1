@@ -25,7 +25,7 @@
 
 ### Github Stats:
 
-</div align="center>
+</div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical"/>
 </div>
