@@ -30,11 +30,10 @@
 
 ### Github Stats:
 
-![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
-
+</div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical"/>
+</div>
 
 [website]: https://alokkothiyal1.github.io/
 [twitter]: https://twitter.com/alok_kothiyal
