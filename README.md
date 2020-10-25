@@ -19,8 +19,9 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    </p> 
 ---
+  ### Connect with me.
+  
 <p align="center">
-  <i>Connect with me.</i><br/>
   <i>
     <a href="http://alokkothiyal1.github.io"><img src="https://img.shields.io/badge/-github.io-000000?style=for-the-badge&logo=react&logoColor=white"></a>
     <a href="mailto:alokothiyal007@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
