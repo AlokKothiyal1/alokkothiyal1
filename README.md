@@ -7,12 +7,13 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-<div align="center>
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-</div>
+[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 
 <br />
 
@@ -29,7 +30,7 @@
 ---
 
 ![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
 
 [website]: https://alokkothiyal1.github.io/
 [twitter]: https://twitter.com/alok_kothiyal
