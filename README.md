@@ -5,6 +5,9 @@
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to travel & play FPS games.
 <br />
+<br />
+
+--- 
 
 ### Languages and Tools:
 <p align="center" >
@@ -16,6 +19,21 @@
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
 </p> 
+<br/>
+<br/>
+
+--- 
+
+
+### Github Stats:
+
+</div>
+<img src="https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical"/>
+</div>
+
+--- 
+
 
 ### Connect with me:
 
@@ -28,12 +46,6 @@
   </i>
 </p>
 
-### Github Stats:
-
-</div>
-<img src="https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical"/>
-</div>
 
 [website]: https://alokkothiyal1.github.io/
 [twitter]: https://twitter.com/alok_kothiyal
