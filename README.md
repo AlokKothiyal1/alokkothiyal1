@@ -17,7 +17,7 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
 </p> 
 
-### Connect with me.
+### Connect with me:
 
 <p align="center">
   <i>
@@ -27,6 +27,8 @@
     <a href="https://www.instagram.com/alokkothiyal/?hl=en"><img src="https://img.shields.io/badge/-Instagram-d62977?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </i>
 </p>
+
+### Github Stats:
 
 ![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
