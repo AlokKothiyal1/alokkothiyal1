@@ -18,9 +18,9 @@
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
    </p> 
----
-  ### Connect with me.
-  
+
+### Connect with me.
+
 <p align="center">
   <i>
     <a href="http://alokkothiyal1.github.io"><img src="https://img.shields.io/badge/-github.io-000000?style=for-the-badge&logo=react&logoColor=white"></a>
