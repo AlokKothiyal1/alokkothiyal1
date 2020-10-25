@@ -1,7 +1,7 @@
 ### Hi there, I'm Alok👋
 
-- 🌱 I’m currently learning MERN Stack 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate with
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to travel & play FPS games.
 <br />
@@ -32,6 +32,9 @@
 
 ![Alok's github stats](https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true&hide=issues"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical"/>
 
 [website]: https://alokkothiyal1.github.io/
 [twitter]: https://twitter.com/alok_kothiyal
