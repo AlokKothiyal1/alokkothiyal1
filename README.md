@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning MongoDb
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to travel & play FPS games.
-<br />
 
 --- 
 
@@ -19,7 +18,8 @@
     <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
 </p> 
-<br/>
+
+
 --- 
 
 ### Github Stats:
