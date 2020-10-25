@@ -1,10 +1,9 @@
 ### Hi there, I'm Alok👋
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning MERN Stack 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to travel & play FPS games.
 <br />
 
 ### Languages and Tools:
@@ -17,7 +16,6 @@
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70">
 </p> 
-<hr></hr>
 
 ### Connect with me.
 
