@@ -25,8 +25,8 @@
 ### Github Stats:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alokkothiyal1&theme=radical&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=alokkothiyal1&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokkothiyal1&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact"/>
 </p>
 
 
@@ -36,7 +36,7 @@
 
 <p align="center">
   <i>
-    <a href="http://alokkothiyal1.github.io"><img src="https://img.shields.io/badge/-github.io-000000?style=for-the-badge&logo=react&logoColor=white"></a>
+    <a href="http://alokkothiyal1.github.io"><img src="https://img.shields.io/badge/-github.io-000000?style=for-the-badge&logo=react&logoColor=white&hide=contribs"></a>
     <a href="mailto:alokothiyal007@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/alok-kothiyal-025191119/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
     <a href="https://www.instagram.com/alokkothiyal/?hl=en"><img src="https://img.shields.io/badge/-Instagram-d62977?style=for-the-badge&logo=instagram&logoColor=white"></a>
