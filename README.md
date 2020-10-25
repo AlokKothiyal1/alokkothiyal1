@@ -29,12 +29,12 @@
    </p> 
 ---
 
-<details>
+<p>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alokkothiyal1&show_icons=true&hide_border=true" />
 
-</details>
+</p>
 
 [website]: https://alokkothiyal1.github.io/
 [twitter]: https://twitter.com/alok_kothiyal
